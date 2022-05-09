@@ -11,7 +11,7 @@ Questions, wishes and suggestions are always welcome
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="./.img/github-light.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="./.img/github-dark" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="./.img/github-dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./.img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./.img/terminal-dark.svg" />
 <!---
