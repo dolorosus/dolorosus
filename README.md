@@ -1,7 +1,7 @@
 Hi, I’m @dolorosus
 
 This repository is my private playground. Meant as my storage accessible from everywhere.
-Here you can find some of my daily used scripts for backup (Raspi and Cubox) with the wrappers for backup versioning. 
+Here you can find some of my daily used scripts for backup (Raspi and Cubox) including  wrappers for backup versioning on BTRFS. 
 
 Questions, wishes and suggestions are always welcome
 
